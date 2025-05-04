@@ -3,7 +3,7 @@ Pharmaceutical Inventory Database
 For this project, I built a complete inventory management system using MySQL for a fictional pharmacist, Chief Lekwot Ejejigbe Edet, who runs 13 shops across Nigeria. 
 The goal was to showcase my skills in SQL, database design, and data automation.
 
-I designed a clean, relational schema that captures real-world pharmacy operations—covering products, branches, suppliers, and sales. 
+I designed a clean, relational schema that captures real-world pharmacy operations—covering products, branches, sales, etc. 
 I ensured the structure followed best practices, including proper indexing, foreign key constraints, and normalized tables to avoid redundancy.
 
 To simulate realistic activity, I generated synthetic data across all branches. 
